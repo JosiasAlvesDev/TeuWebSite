@@ -732,10 +732,10 @@ img{
 }
 .projetos-time{
     margin-top: 75px;
-    font-family:Arial, Helvetica, sans-serif;
-    font-size: 42px;
+    font-family:monospace;
+    font-size: 37px;
     text-align: center;
-    color: black;
+    color: #0b3647;
     letter-spacing: 4px;
     font-weight: 100;
 }
